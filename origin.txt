@@ -1,0 +1,800 @@
+Uri: https://www.ethanbruins.com/
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\index.htm
+Content Type: text/html
+
+Uri: https://www.ethanbruins.com/assets/img/favicon.ico
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.ethanbruins.com/css/styles.css
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\css\styles.css
+Content Type: text/css
+
+Uri: http://www.ethanbruins.com/
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.ethanbruins.com/assets/img/profile.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\profile.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/LFD/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\LFD\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/LFD/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\LFD\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/LFD/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\LFD\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/BSD/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/BSD/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/BSD/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/BSD/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\4.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/BSD/5.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\5.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/BSD/6.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\6.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/BSD/7.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\7.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/prg/prg_1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\prg\prg_1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/prg/prg_2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\prg\prg_2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/prg/prg_3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\prg\prg_3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/ext/furby.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\ext\furby.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/ext/ai1.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\ext\ai1.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/ext/doggo2.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\ext\doggo2.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/textp/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\textp\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/textp/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\textp\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/plague/1.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\plague\1.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/plague/2.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\plague\2.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/plague/3.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\plague\3.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/merchant/1.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\merchant\1.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/merchant/2.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\merchant\2.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/merchant/3.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\merchant\3.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/SB/2.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\SB\2.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/SB/3.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\SB\3.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/pie/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\pie\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/pie/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\pie\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/vrtools/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\vrtools\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/vrtools/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\vrtools\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/vrtools/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\vrtools\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/tl/banner.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\banner.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/tl/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/tl/2.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/tl/3.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/tl/4.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/tl/5.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/tl/6.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/tl/7.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/tl/8.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/tl/9.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/cfs/1.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\cfs\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/cfs/2.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\cfs\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/cfs/3.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\cfs\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/pp/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\pp\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/bbd/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bbd\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/bbd/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bbd\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/draums/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\draums\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/draums/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\draums\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/draums/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\draums\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/draums/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\draums\4.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/d11/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\d11\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/d11/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\d11\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/d11/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\d11\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/d11/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\d11\4.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/MM/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\MM\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/MM/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\MM\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/MM/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\MM\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/MM/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\MM\4.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/RR/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\RR\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/import.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\import.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/CC/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\CC\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/CC/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\CC\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/CC/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\CC\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/c2d.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\c2d.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/procpat/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\procpat\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/procpat/image4.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\procpat\image4.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/procpat/image5.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\procpat\image5.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/zac/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\zac\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/zac/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\zac\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/zac/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\zac\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/zac/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\zac\4.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/zac/5.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\zac\5.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/fe/1.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\fe\1.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/fe/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\fe\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/bs/banner.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bs\banner.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/bs/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bs\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/bs/2.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bs\2.gif
+Content Type: image/gif
+
+Uri: https://www.ethanbruins.com/assets/img/bs/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bs\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/blocks/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\blocks\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/blocks/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\blocks\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/blocks/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\blocks\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/rover/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\rover\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/rover/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\rover\2.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/rover/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\rover\3.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/rover/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\rover\4.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/qong/ps4demo.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\qong\ps4demo.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/intransit/banner.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\intransit\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/propaint/propaintwall.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\propaint\propaintwall.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/fs/1.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\fs\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/ll/1.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\ll\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/cata/1.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\cata\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/BH/bearholtlogo.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BH\bearholtlogo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/assets/img/td/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\td\1.png
+Content Type: image/png
+
+Uri: https://www.ethanbruins.com/assets/img/lac/1.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\lac\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ethanbruins.com/js/scripts.js
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://www.ethanbruins.com/assets/img/favicon.ico
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: http://www.ethanbruins.com/css/styles.css
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\css\styles-1.css
+Content Type: text/css
+
+Uri: http://www.ethanbruins.com/assets/img/profile.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\profile-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/LFD/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\LFD\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/LFD/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\LFD\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/LFD/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\LFD\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/BSD/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/BSD/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/BSD/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/BSD/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\4-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/BSD/5.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\5-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/BSD/6.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\6-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/BSD/7.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BSD\7-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/prg/prg_1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\prg\prg_1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/prg/prg_2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\prg\prg_2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/prg/prg_3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\prg\prg_3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/ext/furby.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\ext\furby-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/ext/ai1.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\ext\ai1-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/ext/doggo2.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\ext\doggo2-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/textp/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\textp\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/textp/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\textp\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/plague/1.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\plague\1-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/plague/2.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\plague\2-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/plague/3.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\plague\3-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/merchant/1.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\merchant\1-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/merchant/2.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\merchant\2-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/merchant/3.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\merchant\3-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/SB/2.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\SB\2-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/SB/3.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\SB\3-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/pie/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\pie\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/pie/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\pie\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/vrtools/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\vrtools\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/vrtools/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\vrtools\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/vrtools/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\vrtools\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/tl/banner.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\banner-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/tl/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/tl/2.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/tl/3.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/tl/4.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/tl/5.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\5-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/tl/6.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\6-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/tl/7.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\7-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/tl/8.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\8-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/tl/9.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\tl\9-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/cfs/1.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\cfs\1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/cfs/2.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\cfs\2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/cfs/3.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\cfs\3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/pp/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\pp\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/bbd/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bbd\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/bbd/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bbd\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/draums/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\draums\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/draums/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\draums\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/draums/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\draums\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/draums/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\draums\4-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/d11/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\d11\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/d11/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\d11\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/d11/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\d11\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/d11/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\d11\4-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/MM/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\MM\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/MM/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\MM\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/MM/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\MM\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/MM/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\MM\4-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/RR/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\RR\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/import.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\import-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/CC/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\CC\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/CC/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\CC\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/CC/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\CC\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/c2d.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\c2d-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/procpat/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\procpat\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/procpat/image4.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\procpat\image4-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/procpat/image5.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\procpat\image5-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/zac/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\zac\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/zac/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\zac\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/zac/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\zac\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/zac/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\zac\4-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/zac/5.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\zac\5-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/fe/1.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\fe\1-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/fe/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\fe\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/bs/banner.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bs\banner-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/bs/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bs\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/bs/2.gif
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bs\2-1.gif
+Content Type: image/gif
+
+Uri: http://www.ethanbruins.com/assets/img/bs/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\bs\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/blocks/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\blocks\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/blocks/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\blocks\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/blocks/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\blocks\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/rover/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\rover\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/rover/2.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\rover\2-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/rover/3.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\rover\3-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/rover/4.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\rover\4-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/qong/ps4demo.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\qong\ps4demo-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/intransit/banner.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\intransit\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/propaint/propaintwall.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\propaint\propaintwall-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/fs/1.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\fs\1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/ll/1.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\ll\1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/cata/1.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\cata\1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/BH/bearholtlogo.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\BH\bearholtlogo-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/assets/img/td/1.png
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\td\1-1.png
+Content Type: image/png
+
+Uri: http://www.ethanbruins.com/assets/img/lac/1.jpg
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\assets\img\lac\1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ethanbruins.com/js/scripts.js
+File Name: c:\Downloaded Web Sites\www.ethanbruins.com\js\scripts-1.js
+Content Type: application/javascript
+
