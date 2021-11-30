@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #38bda4; 
+  color: #8087FF ; 
   text-decoration: none;
   background-color: transparent;
 }
@@ -3956,7 +3956,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #38bda4;
+  background-color: #8087FF ;
 }
 
 .nav-fill .nav-item {
@@ -6098,7 +6098,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #38bda4 !important;
+  background-color: #8087FF  !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
